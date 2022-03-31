@@ -21,8 +21,8 @@ Thanks✨✨
 [![gmail-icon](https://user-images.githubusercontent.com/83995776/160254580-a5e3545f-2aed-4ce5-b9c9-2875fff05fda.png)][3]
 
 [1]:http://www.linkedin.com/in/fikunmi-adejare-4b0a641b8
-[2]: https://www.linkedin.com/in/your_contact_info
-[3]: https://www.facebook.com/your_contact_info
+[2]: https://www.instagram.com/fikunmi_1
+[3]: https://github.com/Adesam97/my-mail/tree/main
 
 
 
