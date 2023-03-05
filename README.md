@@ -5,11 +5,13 @@
 ### 👋Hi, everyone
 
 
-I’m into DevOps💻
+I am a DevOps Engineer💻
 <br>
 ✔ Good hands-on experience on Amazon (AWS) and Google (GCP) cloud platforms. 
 <br>
 ✔ Good Linux Administration skills
+<br>
+✔ DevOps automation, infrastructure management (IaC and PaaS), integration and delivery with CI/CD tools.
 <br>
 You can reach me via my mail address or social handles below.
 Thanks✨✨
