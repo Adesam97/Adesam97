@@ -13,6 +13,14 @@ I am a DevOps Engineer💻
 <br>
 ✔ DevOps automation, infrastructure management (IaC and PaaS), integration and delivery with CI/CD tools.
 <br>
+
+
+I enjoy the thrills of;
+- fixing bugs, errors and system/pipe bottlenecks,
+- scripting to improve performance,
+- learning new technologies for optimization and,
+- understanding system architectures.
+<br>
 You can reach me via my mail address or social handles below.
 Thanks✨✨
 
